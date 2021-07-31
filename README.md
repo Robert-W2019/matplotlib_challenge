@@ -117,11 +117,11 @@ Drug Regimen Summary Table:
 #Bar and Pie Charts
 
 Bar Plot - total number of measurements taken on each drug regimen:
-![Image of Bar Plot] (/outputs/output_13_0.png?raw=true)
+![Image of Bar Plot](https://github.com/Robert-W2019/matplotlib_challenge/blob/main/outputs/output_13_0.png?raw=true)
 
 
 Pie Plot - distribution of female versus male mice
-![Image of Pie Plot] (https://github.com/Robert-W2019/matplotlib_challenge/blob/main/outputs/output_18_1.png?raw=true)
+![Image of Pie Plot](https://github.com/Robert-W2019/matplotlib_challenge/blob/main/outputs/output_18_1.png?raw=true)
 
 #Quartiles, Outliers and Boxplots
 
