@@ -154,12 +154,10 @@ Box Plot - Final Tumor Volume by Regimens:
 #Line and Scatter Plots
 
 Line Plot - tumor volume vs. time point for a mouse treated with Capomulin
-![Image of Line Plot]
-(https://github.com/Robert-W2019/matplotlib_challenge/blob/main/outputs/output_24_0.png?raw=true)
+![Image of Line Plot] (https://github.com/Robert-W2019/matplotlib_challenge/blob/main/outputs/output_24_0.png)
 
 Scatter Plot - average tumor volume vs. mouse weight for the Capomulin regimen
-![Image of Scatter Plot]
-(https://github.com/Robert-W2019/matplotlib_challenge/blob/main/outputs/output_25_0.png?raw=true)
+![Image of Scatter Plot] (https://github.com/Robert-W2019/matplotlib_challenge/blob/main/outputs/output_25_0.png?raw=true)
 
 #Correlation and Regression
 
