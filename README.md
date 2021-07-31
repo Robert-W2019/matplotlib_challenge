@@ -117,11 +117,13 @@ Drug Regimen Summary Table:
 #Bar and Pie Charts
 
 Bar Plot - total number of measurements taken on each drug regimen:
-
+![Image of Bar Plot]
+(https://github.com/Robert-W2019/matplotlib_challenge/blob/main/outputs/output_13_0.png?raw=true)
 
 
 Pie Plot - distribution of female versus male mice
-
+![Image of Pie Plot]
+(https://github.com/Robert-W2019/matplotlib_challenge/blob/main/outputs/output_18_1.png?raw=true)
 
 #Quartiles, Outliers and Boxplots
 
@@ -146,20 +148,24 @@ Regimen IQR, Lower Bound, Upper Bound, and Number of Outliers (Capomulin, Ramica
     Number of Ceftamin outliers: 0
 
 Box Plot - Final Tumor Volume by Regimens:
-
+![Image of Box Plot]
+(https://github.com/Robert-W2019/matplotlib_challenge/blob/main/outputs/output_22_0.png?raw=true)
 
 #Line and Scatter Plots
 
 Line Plot - tumor volume vs. time point for a mouse treated with Capomulin
-
+![Image of Line Plot]
+(https://github.com/Robert-W2019/matplotlib_challenge/blob/main/outputs/output_24_0.png?raw=true)
 
 Scatter Plot - average tumor volume vs. mouse weight for the Capomulin regimen
-
+![Image of Scatter Plot]
+(https://github.com/Robert-W2019/matplotlib_challenge/blob/main/outputs/output_25_0.png?raw=true)
 
 #Correlation and Regression
 
 Plot of the correlation coefficient and linear regression model (Average Tumor Volume by Weight):
-
+![Image of Correlation and Linear Regression Model]
+(https://github.com/Robert-W2019/matplotlib_challenge/blob/main/outputs/output_27_0.png?raw=true)
 
 Correlation between mouse weight and the average tumor volume for the the Capomulin Regimen:
 
